@@ -44,7 +44,6 @@ Coinmarkecap and exchange target list #3 *Growth*
 
 #7 Create / select / use  image content - 
 
-#99 solve copyright positionning
 
 
 
